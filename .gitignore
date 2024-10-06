@@ -1,1 +1,2 @@
-conda = true
+conda.true
+docker.true
